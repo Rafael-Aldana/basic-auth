@@ -11,9 +11,9 @@ API where we authenticate users with basic authentication
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
-- [back-end server dev url]()
-- [back-end server prod url]()
+- [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/basic-auth/actions)
+- [back-end server dev url](https://github.com/Rafael-Aldana/basic-auth/tree/dev)
+- [back-end server prod url](https://github.com/Rafael-Aldana/basic-auth)
 
 ### Setup
 
@@ -40,4 +40,4 @@ for now I have none and do not require one
 
 #### UML
 
-![UML](assets/wireframe.png)
+![UML](assets/UML.png)
